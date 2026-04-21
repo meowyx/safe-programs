@@ -1,6 +1,8 @@
 # safe-programs
 
-Solana security skill. Three modes, one ruleset.
+Solana security skill for writing, auditing and brainstorming solana programs.
+
+Three modes, one ruleset.
 
 - **brainstorm** - design-time thinking partner. Surfaces architectural risks
   before code exists. Produces `design-notes.md` with captured decisions, open
